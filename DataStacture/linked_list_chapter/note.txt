@@ -1,0 +1,14 @@
+data structure mean gusano [real life example amara amader jinis potro zemon ek ekta ek ke jaygay rakhi ebong seita zokhon dorkar pore sei jayga theke niye asi
+etai dataStructure sob kichu ekta structure maintain korteche sob kichu zar zar jaygay royche 
+]
+======= Data Structure Main Tow fact ======
+** Stack Lifo(Last in First Out)[ekta ekta boi rakhlam kew zodi cay take ami opre theke ekta dibo eitay bujay mane hoche last in first out]
+** Queue Fifo(First in First Out) [garite kew tel nite gese ekhon ze first e gese tel nite takei age deya hbe mane first in first out]
+
+
+
+======================== Linked List ================
+// linked list tow prokar
+** Single LInked list [ekta value and ekta Pointer (Head first value and tail last value)] single linked list er shudu next poiner thake 
+** Double Linked list [ekta value and 2 ta pointer thake (Head first value and tial last value) ] double linked list er 2 ta pointer thake next and previous
+

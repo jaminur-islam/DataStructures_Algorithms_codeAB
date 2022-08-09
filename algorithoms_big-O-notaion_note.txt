@@ -1,0 +1,56 @@
+** REPRESENT COMPLEXITY **
+1. Big-O Nation (O-Nation) -worst case COMPLEXITY
+2. Omega 
+3. Theta Notation - Average case complexity
+
+
+// big-O Notation 
+* multiplication
+* addition
+* division
+n * (n+1) / 2
+
+n multiple time use to call it 
+
+// when n assign multiple time and deferent prepuce then it call Big O(n)
+// when n assign one time and calculation mathematically it call Big O(1)
+
+
+//====================== Big-O(1) / Big-O(log n) ===========================// 
+big O(log n ) ektu  somoy beshi ney Big O(1) er theke 
+
+//======================= Big-O(n) / Big-O(1) ================================//
+big-O(n) ektu beshi somoy nibe Big-O(1) er theke
+
+//======================= Big-O(n) / Big-O(log n) =============================//
+Big-O(n) ektu beshi somoy nibe Big-O(log n ) er theke
+
+sob theke beshi somoy nibe ================= [big-O(n![factorial])]
+
+
+
+
+/////////// ===================================== Why I used big-O notation =================================/////////////
+
+* one algorithms performance determine korar jonno amara Big-O notation use kori
+* Time complexity and space complexity determine korar jonno Big o Notation amader sorbocco shadinota diye thake 
+* time complexity and space complexity determine kora hoy  big o notation er maddhome
+
+
+
+
+
+
+ https://www.youtube.com/watch?v=dabusBYPD9k&list=PL2ozzDVxiDacR4OsLwBo1L7Sj5jj4xGw_&index=19
+
+
+=================================== posible analitice================================================
+
+
+
+
+
+
+================================ class ===================================
+// class expression [ mane hocche ekta variable er moddhe class rakha ] zemoon  const datastruckture = class {} ekhon call korbo const ds = new datastruckture() eita;
+// class declaration [mane hocche sorasori use declaration kora ]
